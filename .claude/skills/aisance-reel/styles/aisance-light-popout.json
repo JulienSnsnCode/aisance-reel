@@ -1,0 +1,78 @@
+{
+  "name": "aisance-light-popout",
+  "layout": "popout",
+  "colors": {
+    "bg": "#ffffff",
+    "text": "#141414",
+    "muted": "#6b7075",
+    "accent": "#f0813f",
+    "accent_bright": "#ffa766",
+    "negative": "#ff5470",
+    "neutral": "#7f93ad",
+    "panel": "rgba(240,129,63,0.07)",
+    "panel_border": "rgba(240,129,63,0.45)"
+  },
+  "font": {
+    "family": "Montserrat",
+    "file": "assets/fonts/Montserrat-VariableFont_wght.ttf"
+  },
+  "cards": {
+    "band_h": 1920,
+    "content_h": 700,
+    "decor": true,
+    "grid_alpha": 0.14,
+    "glow_alpha": 0.13,
+    "logo_fill": "#141414",
+    "safe_top": 170
+  },
+  "captions": {
+    "size": 66,
+    "y": 740,
+    "max_width": 1000,
+    "fill": [
+      20,
+      20,
+      20,
+      255
+    ],
+    "halo": [
+      255,
+      255,
+      255,
+      170
+    ],
+    "blur": 9,
+    "uppercase": true,
+    "strip_punct": true
+  },
+  "popout": {
+    "frame_x": 30,
+    "frame_w": 1020,
+    "frame_top": 1020,
+    "bottom_margin": 30,
+    "radius": 36,
+    "popout_top": 720,
+    "pop_target": 170,
+    "offset_default": 310,
+    "shadow_alpha": 90,
+    "shadow_blur": 22,
+    "shadow_dy": 24,
+    "matte_erode": 5,
+    "matte_blur": 1.2
+  },
+  "screen": {
+    "x": 44,
+    "y": 170,
+    "w": 992,
+    "h": 558,
+    "radius": 24,
+    "shadow_alpha": 70,
+    "shadow_blur": 18,
+    "shadow_dy": 16
+  },
+  "music": {
+    "vol": 0.09,
+    "start": 4.0,
+    "duck": true
+  }
+}

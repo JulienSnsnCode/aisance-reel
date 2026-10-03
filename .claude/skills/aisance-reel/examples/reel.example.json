@@ -1,0 +1,16 @@
+{
+  "style": "aisance-light-popout",
+  "fps": 30,
+  "cut": "edit/cutF.mp4",
+  "cards": "cards/cards_all.mp4",
+  "captions": "edit/capt",
+  "out": "renders/my-reel-FINAL.mp4",
+  "music": null,
+  "seg_dir": "seg",
+  "offset_speaker": 310,
+  "windows": "edit/windows.json",
+  "screens_dir": "seg/screens",
+  "broll": [],
+  "title_png": null,
+  "title_window": null
+}

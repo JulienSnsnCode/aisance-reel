@@ -1,0 +1,240 @@
+{
+ "language": "en",
+ "words": [
+  {
+   "text": "This",
+   "start": 0.0,
+   "end": 0.3
+  },
+  {
+   "text": "is",
+   "start": 0.38,
+   "end": 0.68
+  },
+  {
+   "text": "how",
+   "start": 0.76,
+   "end": 1.06
+  },
+  {
+   "text": "I",
+   "start": 1.14,
+   "end": 1.44
+  },
+  {
+   "text": "turned",
+   "start": 1.52,
+   "end": 1.82
+  },
+  {
+   "text": "a",
+   "start": 1.9,
+   "end": 2.2
+  },
+  {
+   "text": "boring",
+   "start": 2.28,
+   "end": 2.58
+  },
+  {
+   "text": "website",
+   "start": 2.66,
+   "end": 2.96
+  },
+  {
+   "text": "into",
+   "start": 3.04,
+   "end": 3.34
+  },
+  {
+   "text": "a",
+   "start": 3.42,
+   "end": 3.72
+  },
+  {
+   "text": "great",
+   "start": 3.8,
+   "end": 4.1
+  },
+  {
+   "text": "one",
+   "start": 4.18,
+   "end": 4.48
+  },
+  {
+   "text": "in",
+   "start": 4.56,
+   "end": 4.86
+  },
+  {
+   "text": "sixty",
+   "start": 4.94,
+   "end": 5.24
+  },
+  {
+   "text": "seconds.",
+   "start": 5.32,
+   "end": 5.62
+  },
+  {
+   "text": "Step",
+   "start": 5.7,
+   "end": 6.0
+  },
+  {
+   "text": "one,",
+   "start": 6.08,
+   "end": 6.38
+  },
+  {
+   "text": "open",
+   "start": 6.46,
+   "end": 6.76
+  },
+  {
+   "text": "the",
+   "start": 6.84,
+   "end": 7.14
+  },
+  {
+   "text": "terminal.",
+   "start": 7.22,
+   "end": 7.52
+  },
+  {
+   "text": "Step",
+   "start": 7.6,
+   "end": 7.9
+  },
+  {
+   "text": "two,",
+   "start": 7.98,
+   "end": 8.28
+  },
+  {
+   "text": "run",
+   "start": 8.36,
+   "end": 8.66
+  },
+  {
+   "text": "the",
+   "start": 8.74,
+   "end": 9.04
+  },
+  {
+   "text": "design",
+   "start": 9.12,
+   "end": 9.42
+  },
+  {
+   "text": "skill.",
+   "start": 9.5,
+   "end": 9.8
+  },
+  {
+   "text": "Step",
+   "start": 9.88,
+   "end": 10.18
+  },
+  {
+   "text": "three,",
+   "start": 10.26,
+   "end": 10.56
+  },
+  {
+   "text": "press",
+   "start": 10.64,
+   "end": 10.94
+  },
+  {
+   "text": "enter.",
+   "start": 11.02,
+   "end": 11.32
+  },
+  {
+   "text": "It",
+   "start": 11.4,
+   "end": 11.7
+  },
+  {
+   "text": "costs",
+   "start": 11.78,
+   "end": 12.08
+  },
+  {
+   "text": "five",
+   "start": 12.16,
+   "end": 12.46
+  },
+  {
+   "text": "times",
+   "start": 12.54,
+   "end": 12.84
+  },
+  {
+   "text": "less",
+   "start": 12.92,
+   "end": 13.22
+  },
+  {
+   "text": "than",
+   "start": 13.3,
+   "end": 13.6
+  },
+  {
+   "text": "an",
+   "start": 13.68,
+   "end": 13.98
+  },
+  {
+   "text": "agency.",
+   "start": 14.06,
+   "end": 14.36
+  },
+  {
+   "text": "Comment",
+   "start": 14.44,
+   "end": 14.74
+  },
+  {
+   "text": "reel",
+   "start": 14.82,
+   "end": 15.12
+  },
+  {
+   "text": "and",
+   "start": 15.2,
+   "end": 15.5
+  },
+  {
+   "text": "I'll",
+   "start": 15.58,
+   "end": 15.88
+  },
+  {
+   "text": "send",
+   "start": 15.96,
+   "end": 16.26
+  },
+  {
+   "text": "you",
+   "start": 16.34,
+   "end": 16.64
+  },
+  {
+   "text": "the",
+   "start": 16.72,
+   "end": 17.02
+  },
+  {
+   "text": "prompt.",
+   "start": 17.1,
+   "end": 17.4
+  },
+  {
+   "text": "<script>alert(1)</script>",
+   "start": 17.48,
+   "end": 17.78
+  }
+ ]
+}

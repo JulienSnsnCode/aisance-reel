@@ -1,0 +1,122 @@
+{
+  "name": "aisance-popout",
+  "layout": "popout",
+  "colors": {
+    "bg": "#070605",
+    "text": "#FFFFFF",
+    "muted": "#8C8177",
+    "accent": "#E8703A",
+    "accent_bright": "#E8703A",
+    "negative": "#FF5A5A",
+    "neutral": "#E6D2C8",
+    "panel": "#0B0907",
+    "panel_border": "#FFFFFF",
+    "line": "#2A231E"
+  },
+  "accents": {
+    "default": "#E8703A",
+    "claude": "#D97757",
+    "anthropic": "#D97757",
+    "n8n": "#FA5F81",
+    "jev": "#8FBFEF",
+    "openai": "#10A37F",
+    "huggingface": "#FFD21E"
+  },
+  "font": {
+    "family": "Montserrat",
+    "file": "assets/fonts/Montserrat-VariableFont_wght.ttf"
+  },
+  "fonts": {
+    "display": {
+      "family": "Bebas Neue",
+      "file": "assets/fonts/BebasNeue.woff2",
+      "weight": 400,
+      "weight_range": "400"
+    },
+    "body": {
+      "family": "Montserrat",
+      "file": "assets/fonts/Montserrat-VariableFont_wght.ttf"
+    },
+    "term": {
+      "family": "SF Mono"
+    },
+    "mono": {
+      "family": "SF Mono"
+    }
+  },
+  "cards": {
+    "band_h": 1920,
+    "content_h": 700,
+    "decor": false,
+    "vignette": true,
+    "tone": "dynamique",
+    "kw_size": 172,
+    "big_size": 340,
+    "term_bg": "#0B0907",
+    "term_bar": "#15110E",
+    "logo_fill": "#FFFFFF",
+    "safe_top": 170,
+    "look": "flow",
+    "aurora": 0.42,
+    "grain": 0.16
+  },
+  "captions": {
+    "size": 118,
+    "y": 720,
+    "max_width": 1000,
+    "fill": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "halo": [
+      0,
+      0,
+      0,
+      200
+    ],
+    "blur": 8,
+    "uppercase": true,
+    "strip_punct": true,
+    "pop": true,
+    "accent_words": true,
+    "font": "assets/fonts/BebasNeue.woff2"
+  },
+  "screen": {
+    "x": 60,
+    "y": 170,
+    "w": 960,
+    "h": 540,
+    "radius": 28,
+    "shadow_alpha": 150,
+    "shadow_blur": 28,
+    "shadow_dy": 18,
+    "border_w": 2,
+    "border_color": "#3A302A",
+    "offset_shadow": 0
+  },
+  "music": {
+    "vol": 0.09,
+    "start": 4.0,
+    "duck": true
+  },
+  "popout": {
+    "frame_x": 30,
+    "frame_w": 1020,
+    "frame_top": 1020,
+    "bottom_margin": 40,
+    "radius": 28,
+    "popout_top": 720,
+    "pop_target": 170,
+    "offset_default": 310,
+    "shadow_alpha": 150,
+    "shadow_blur": 28,
+    "shadow_dy": 18,
+    "border_w": 2,
+    "border_color": "#3A302A",
+    "offset_shadow": 0,
+    "matte_erode": 5,
+    "matte_blur": 1.2
+  }
+}

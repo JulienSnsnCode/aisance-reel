@@ -1,0 +1,14 @@
+{
+  "screen_src": "raw/screen-recording.mov",
+  "offset": 1.585,
+  "src_crop": "1664:936:128:40",
+  "edl": "edit/edl.json",
+  "edl_sil": "edit/edl_sil.json",
+  "extra_edls": [],
+  "windows": [
+    {"start": 5.7, "end": 9.5, "hold": 0.5, "punch": 0.35,
+     "stages": [{"at": 0.5, "zoom": 1.55, "fx": 0.3, "fy": 0.3}, {"at": 2.66, "zoom": 1.85, "fx": 0.0, "fy": 0.03}]},
+    {"start": 9.5, "end": 12.5, "stages": [{"at": 0.5, "zoom": 1.75, "fx": 0.52, "fy": 0.36}]},
+    {"start": 20.9, "end": 24.4, "src_t": 84.5, "stages": [{"at": 0.3, "zoom": 2.4, "fx": 0.52, "fy": 0.52}]}
+  ]
+}

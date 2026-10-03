@@ -1,0 +1,11 @@
+{
+  "expect": {"0": "This", "6": "boring"},
+  "beats": [
+    {"id": "hook", "trigger": "This is how", "type": "title", "eyebrow": "IN 60 SECONDS", "text": "BORING TO GREAT", "sub": "one prompt", "on": "boring"},
+    {"id": "steps", "trigger": "Step one", "type": "steps", "eyebrow": "THREE STEPS",
+     "items": [{"title": "Open the terminal", "on": "terminal"}, {"title": "Run the design skill", "on": "design"}, {"title": "Press enter", "on": "enter"}]},
+    {"id": "stat", "trigger": "costs", "type": "versus", "a": {"logo": "claude"}, "b": {"label": "AGENCY"},
+     "rows": [{"label": "COST", "a": 1, "b": 5, "a_text": "1x", "b_text": "5x", "tone": "negative", "on": "five"}]},
+    {"id": "cta", "trigger": "Comment", "type": "cta", "eyebrow": "WANT THE PROMPT?", "text": "COMMENT \"REEL\"", "on": "reel", "hold": 0.3}
+  ]
+}

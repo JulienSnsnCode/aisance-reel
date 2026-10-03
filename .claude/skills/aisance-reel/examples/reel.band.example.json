@@ -1,0 +1,25 @@
+{
+  "style": "aisance-dark-band",
+  "fps": 30,
+  "cut": "edit/cutF.mp4",
+  "cards": "cards/cards_all.mp4",
+  "captions": "edit/capt",
+  "out": "renders/my-reel-FINAL.mp4",
+  "music": null,
+  "crop_y": 200,
+  "seg_dir": "seg",
+  "broll": [
+    {
+      "file": "broll/website.mov",
+      "start": 10.65,
+      "end": 13.55,
+      "src_start": 0,
+      "fit": "fill"
+    }
+  ],
+  "cut_edl": "edit/edl_sil.json",
+  "punch": {
+    "zoom": 1.1,
+    "min_gap": 2.0
+  }
+}
